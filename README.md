@@ -43,7 +43,7 @@ This board combines four functional subsystems into a single 2-layer PCB:
 **Schematic**
 📄 [schematic.pdf](schematic.pdf)
 
-**Full Project Document**
+**3D Design Overview**
 📄 [PRoject_cv.pdf](PRoject_cv.pdf)
 
 ---
